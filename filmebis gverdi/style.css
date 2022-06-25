@@ -1,0 +1,27 @@
+a{
+    font-family: 'gochihand-regukar', cursive;;
+    text-decoration: none;color: blueviolet;
+}
+#tekla {
+    color: aliceblue;
+}
+.material-symbols-outlined{
+    color:aliceblue;
+margin-left: 20%;
+margin-top: 30px;
+    
+}
+div {
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 10px;
+
+    display: inline-block;
+ }
+ div:hover{ background-color: aqua;}
+nav{ 
+    width: 100%; background-color: brown;
+   position: fixed; 
+   top:0;
+padding: 15px;
+}
